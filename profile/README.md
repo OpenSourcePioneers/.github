@@ -10,7 +10,7 @@ OpenSourcePioneers 是一个以探索、创新和分享为己任的开源技术�
 
 ## 🚀 加入冒险
 
-您准备好加入我们的冒险队伍了吗？如果是的，那就让我们一起创造技术的未来！跟随我们的 [贡献指南](https://github.com/OpenSourcePioneers/CONTRIBUTING.md) 开始您的冒险之旅吧。
+您准备好加入我们的冒险队伍了吗？如果是的，那就让我们一起创造技术的未来！跟随我们的 [README.MD](https://github.com/OpenSourcePioneers/README.md) 开始您的冒险之旅吧。
 
 ## ✨ 最后的话
 
