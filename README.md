@@ -4,7 +4,7 @@
 
 ## 关于我们
 
-OpenSourcePioneers 是一个开源组织，我们的使命是推广和支持开源技术，以解决世界上的重大问题。我们相信开源的力量，通过协作和创新，我们可以共同取得积极的影响。
+OpenSourcePioneers 是一个开源组织，我们的使命是推广和支持开源技术。我们相信开源的力量，通过协作和创新，我们可以共同取得积极的影响。
 
 ## 如何加入
 
@@ -44,7 +44,7 @@ OpenSourcePioneers 是一个开源组织，我们的使命是推广和支持开�
 
 ## 许可证
 
-OpenSourcePioneers 社区遵循 [开源许可证名称](LICENSE)。
+OpenSourcePioneers 社区遵循 [MIT](LICENSE)。
 
 感谢您加入 OpenSourcePioneers，一起推动开源技术的发展！
 
