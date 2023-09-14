@@ -39,8 +39,8 @@ OpenSourcePioneers 是一个开源组织，我们的使命是推广和支持开�
 
 如果您有任何问题、建议或需要帮助，请随时与我们联系：
 
-- 电子邮件：[contact@opensourcepioneers.org](mailto:contact@opensourcepioneers.org)
-- 论坛：[社区论坛](https://example.com/forum)
+- 电子邮件：[leonliuzx@outlook.com](mailto:leonliuzx@outlook.com)
+- 论坛：[待开发....](/)
 
 ## 许可证
 
